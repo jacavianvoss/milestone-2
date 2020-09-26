@@ -1,0 +1,16 @@
+---
+title: 'Milestone #2'
+author: "Jacavian Voss"
+date: "9/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## I chose to examine HIV in the United States & The Potential of PrEP. The information contained did a good job of explaining what PrEP was and the impact of the drug. I think that the data showing the differences in transmission of HIV between races was very helpful in presenting a potential problem in the differennces of experience between races. While this information was somewhat expained to be due to the high adoption of PrEP by white men who have sex with men, the data felt incomplete, and I was left wondering how other factors could have affected the numbers of new cases in white gay men. I also do not understand why the geographic location mattered in this case. Overall, I would say that this project has a lot of potential but missed multiple opportunities to explain the variation among races regarding HIV transmission and PrEP usage.
+
+## I also examined Gun Violence in San Francisco and Oakland. While this project resulted in being inconclusive, I thought that the approach to the problem was thought out in a very effective manner. From an animation that showed the decrease in gun violence to the charts that compared the decrease with other cities, it was very great at making me understand why these cities were chosen for research. I also really liked the brief video, and I could have honestly just saved my time and watched it instead of looking through the data. It was very convenient. The cons were perhaps the fact that a lot of data was missing, but this was largely due to the relative newness of the trends explored. 
+
+
